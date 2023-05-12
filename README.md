@@ -1,15 +1,15 @@
 # Rock Paper Scissors By ElenaYankova 🐍
-This is a simple console game for SoftUni - "Rock - Paper - Scissors". This is console game for two players. Input: the player enter : "r" , "s" or "p". If the player write wrong input , the progran stop. Output: computer and player choose "r" , "s" or "p" and reveal the winner or draw.
+This is a simple console game for SoftUni - `"Rock - Paper - Scissors"`. This is console game for two players. Input: the player enter : "r" , "s" or "p". If the player write wrong input , the progran stop. Output: computer and player choose "r" , "s" or "p" and reveal the winner or draw.
 
 ![Screenshot 2023-05-12 115518](https://github.com/ElenaGYankova/SoftUni-Python-Fundamentals-2023/assets/122468758/8a2361db-f9b4-4bce-893f-b84475fe6984)
 
 Rock-Paper-Scissors is a simple two-player game (jk it's just you), where you and your opponent (the computer) simultaneously choose one of the following three options: "rock", "paper", or "scissors". The rules are as follows:
 
-•	Rock beats scissors (the scissors get broken by the rock);
+•	`Rock` beats scissors (the scissors get broken by the rock);
 
-•	Scissors beats paper (the paper gets cut by the scissors);
+•	`Scissors` beats paper (the paper gets cut by the scissors);
 
-•	Paper beats rock (the paper covers the rock);
+•	`Paper` beats rock (the paper covers the rock);
 
 The winner is the player whose choice beats the choice of his opponent. If both players choose the same option (e.g., "paper"), the game outcome is "draw".
 
