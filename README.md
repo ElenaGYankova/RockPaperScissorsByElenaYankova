@@ -1,6 +1,6 @@
 ![rock paper scissors](https://github.com/ElenaGYankova/SoftUni-Python-Fundamentals-2023/assets/122468758/941a4cf4-770b-4a47-bd05-368e62a34d76)
 # Rock Paper Scissors By Elena Yankova 🐍
-This is a simple console game for SoftUni - `"Rock - Paper - Scissors"`. This is console game for two players. Input: the player enter : "r" , "s" or "p". If the player write wrong input , the progran stop. Output: computer and player choose "r" , "s" or "p" and reveal the winner or draw.
+This is a simple console game for SoftUni - `"Rock - Paper - Scissors"`. This is console game for two players. Input: the player enter : "r" , "s" or "p". If the player write wrong input , the program stop. Output: computer and player choose "r" , "s" or "p" and reveal the winner or draw.
 
 ![Screenshot 2023-05-12 115518](https://github.com/ElenaGYankova/SoftUni-Python-Fundamentals-2023/assets/122468758/8a2361db-f9b4-4bce-893f-b84475fe6984)
 
